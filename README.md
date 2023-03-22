@@ -11,3 +11,8 @@ And every state has polling stations that can have observers.
 
 
 P.S. [How the US elections work](youtube.com/watch?v=OUS9mM8Xbbw&list=LL&index=6).
+
+# Entity–relationship model
+
+![1062149](https://user-images.githubusercontent.com/25695606/226966683-57d0c406-6e47-474d-8e49-5906d611a673.png)
+
